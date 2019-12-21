@@ -6,7 +6,7 @@
     <body>
         <h2>Mini Tchat</h2>
         <div id="container">
-            <div id="section">
+            <div id="sction">
                 <form method="POST" action="traitementtchat.php">
                     <h3>Users 1</h3>
                     <div id="section1">
